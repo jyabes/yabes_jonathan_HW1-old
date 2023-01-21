@@ -1,4 +1,4 @@
-# yabes_jonathan_HW1
+# Yabes_Jonathan_HW1
 Create a repository on Github
 
 ## Heading 2
