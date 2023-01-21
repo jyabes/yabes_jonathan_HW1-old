@@ -1,2 +1,2 @@
 # Yabes_Jonathan_HW1
-## Create a repository on Github
+Create a repository on Github
